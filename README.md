@@ -1,1 +1,1 @@
-# uiuc_mse201_dft_datafitting_2023
+# This is the repository for the DFT Lecture and the first computational report in the MSE 201 course in University of Illinois at Urbana-Champaign. It contains the example code and data used in the lecture on Oct. 17, 2023 regarding data fitting with python. It also contains a notebook file that the students can start with when fitting their DFT results from Quantum Espresso.
